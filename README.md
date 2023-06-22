@@ -1,5 +1,5 @@
-## comsil_prj
-# 프로그램 실행 방법
+# comsil_prj
+## 프로그램 실행 방법
 1. 빌드 & 디버그 로 프로그램 시작
 2. File -> Open 클릭 후 탈출 경로를 찾고 싶은 미로(.maz) 파일 선택
 3. View 버튼 클릭 후 알고리즘 선택 (Show DFS / Show BFS)
